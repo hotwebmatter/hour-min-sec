@@ -1,4 +1,5 @@
 ﻿using System;
+using static System.Console;
 
 namespace hour_min_sec
 {
@@ -6,7 +7,7 @@ namespace hour_min_sec
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            WriteLine("Hello World!");
         }
     }
 }
